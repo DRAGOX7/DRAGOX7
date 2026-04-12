@@ -236,11 +236,8 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 ## `> git log --graph`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DRAGOX7/DRAGOX7/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DRAGOX7/DRAGOX7/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/DRAGOX7/DRAGOX7/output/github-snake-dark.svg" />
-  </picture>
+<img width="1444" height="275" alt="image" src="https://github.com/user-attachments/assets/5f499ea9-8639-49c6-8a48-4cb907cc2b64" />
+
 </div>
 
 <div align="center">
