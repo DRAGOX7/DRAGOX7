@@ -1,10 +1,9 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    HEADER — CAPSULE RENDER                    -->
+<!--                    HEADER — ANIMATED BANNER                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-[![Animation](https://github.com/user-attachments/assets/33257270-a1d5-47c5-81a8-8c33383c6108)
-anner.gif" width="100%" />](https://github.com/DRAGOX7/DRAGOX7/blob/main/Animation.gif)
+  <img src="https://github.com/user-attachments/assets/33257270-a1d5-47c5-81a8-8c33383c6108" width="100%" alt="DRAGOX7 Banner" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -12,15 +11,11 @@ anner.gif" width="100%" />](https://github.com/DRAGOX7/DRAGOX7/blob/main/Animati
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=900&color=00B4D8&background=00000000&center=true&vCenter=true&repeat=true&width=750&height=50&lines=root%40DRAGOX7%3A~%24+whoami;Building+TaLibAI+%E2%80%94+RAG+%2B+Gemma+4+%7C+RTX+4050+never+idles;CV+%7C+MLOps+%7C+Arabic+NLP+%7C+Full-Stack;3rd+Year+CS+%40+JUST%2C+Jordan+%F0%9F%87%AF%F0%9F%87%B4" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=900&color=00B4D8&background=00000000&center=true&vCenter=true&repeat=true&width=750&height=50&lines=root%40DRAGOX7%3A~%24+whoami;Building+TaLibAI+%E2%80%94+RAG+%2B+Gemma+4+%7C+RTX+4050+never+idles;CV+%7C+MLOps+%7C+Arabic+NLP+%7C+Full-Stack;3rd+Year+CS+%40+JUST%2C+Jordan+%F0%9F%87%AF%F0%9F%87%B4" alt="Typing SVG" />
 </div>
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=DRAGOX7&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS)
-
+  <img src="https://komarev.com/ghpvc/?username=DRAGOX7&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
@@ -208,22 +203,16 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 ## `> git log --stats`
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DRAGOX7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00b4d8&icon_color=00b4d8&text_color=a0cfdf" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAGOX7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00b4d8&text_color=a0cfdf&langs_count=8" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DRAGOX7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00b4d8&icon_color=00b4d8&text_color=a0cfdf" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAGOX7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00b4d8&text_color=a0cfdf&langs_count=8" />
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DRAGOX7&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DRAGOX7&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8" />
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DRAGOX7&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=00b4d8&line=00b4d8&point=ffffff" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DRAGOX7&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=00b4d8&line=00b4d8&point=ffffff" width="100%" />
 </div>
 
 <br/>
@@ -235,35 +224,40 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 ## `> wakatime --weekly`
 
 <div align="center">
-
-<img src=["https://github-readme-stats.vercel.app/api/wakatime?](https://wakatime.com/@9b93b0df-b6af-4ce1-805c-4fef5fca0d36)username=DRAGOX7&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00b4d8&text_color=a0cfdf&icon_color=00b4d8&layout=compact&langs_count=8" />
-
-</div>
-
-> ⚙️ **Setup required:** Install the [WakaTime plugin](https://wakatime.com/vs-code) for VS Code, then add your WakaTime username to the stat URL above. It auto-tracks every hour you spend coding — per language, per project.
-
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TROPHIES                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DRAGOX7&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DRAGOX7&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00b4d8&text_color=a0cfdf&icon_color=00b4d8&layout=compact&langs_count=8" />
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CONNECT                                  -->
+<!--                    CONTRIBUTION SNAKE                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> git log --graph`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DRAGOX7/DRAGOX7/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DRAGOX7/DRAGOX7/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/DRAGOX7/DRAGOX7/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DRAGOX7&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         CONNECT                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## `> curl --contact`
 
 <div align="center">
 
-
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-abdullah--aljafari.me-00b4d8?style=for-the-badge&labelColor=0d0d0d)](https://www.abdullah-aljafari.me/)
 [![GitHub](https://img.shields.io/badge/GitHub-DRAGOX7-ffffff?style=for-the-badge&logo=github&labelColor=0d0d0d)](https://github.com/DRAGOX7)
 
 </div>
@@ -271,7 +265,7 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        FOOTER                                 -->
+<!--                          FOOTER                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -279,7 +273,7 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 ```
   "The model is the easy part.
    The pipeline, the data, the deployment — that's the real work."
-   
+
                                          — Abdullah AlJafari, JUST 🇯🇴
 ```
 
