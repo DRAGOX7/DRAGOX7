@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00b4d8,100:0d0d0d&height=220&section=header&text=DRAGOX7&fontSize=90&fontColor=00b4d8&animation=fadeIn&fontAlignY=38&desc=Abdullah%20AlJafari%20%7C%20AI%20%26%20ML%20Engineer&descSize=18&descAlignY=60&descColor=a0cfdf" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090c10,100:00b4d8&height=220&section=header&text=DRAGOX7&fontSize=90&fontColor=00b4d8&animation=fadeIn&fontAlignY=38&desc=Abdullah%20AlJafari%20%7C%20AI%20%26%20ML%20Engineer&descSize=18&descAlignY=60&descColor=a0cfdf" />
 
 </div>
 
@@ -275,4 +275,4 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00b4d8,100:0d0d0d&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090c10,100:00b4d8&height=120&section=footer" />
