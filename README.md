@@ -14,9 +14,10 @@ I am a **Computer Science student** at the **Jordan University of Science & Tech
 - ⚡ **Local Power:** I perform local inference and training on a dedicated **NVIDIA RTX 4050** setup.
 - 🌐 Checkout my interactive portfolio: [abdullah-aljafari.me](https://www.abdullah-aljafari.me/)
 
----
-
-[![github-trophy](https://github-profile-trophy.vercel.app/?username=DRAGOX7&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+### 🔬 Current Focus: Local LLM Optimization
+- **Model:** Gemma 4 (Fine-tuning)
+- **Current Task:** Improving Retrieval Latency in TaLibAI
+- **Status:** `[▓▓▓▓▓▓▓▓░░] 80%`
 
 ---
 
@@ -47,9 +48,7 @@ I am a **Computer Science student** at the **Jordan University of Science & Tech
 **MLOps & Workflow**
 <img src="https://img.shields.io/badge/ZenML-7B3F00?style=for-the-badge&logo=zenml&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
----
-
-### ⚙️ Hardware Environment
+**⚙️ Hardware Environment**
 *Because some architectures deserve more than just a CPU.*
 - **GPU:** NVIDIA GeForce RTX 4050 Laptop GPU
 - **Focus:** Local LLM fine-tuning and Computer Vision inference optimization.
@@ -58,7 +57,15 @@ I am a **Computer Science student** at the **Jordan University of Science & Tech
 
 ### 📊 GitHub Insights
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DRAGOX7&theme=tokyonight" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</p>
 
 ---
 
@@ -69,5 +76,4 @@ I am a **Computer Science student** at the **Jordan University of Science & Tech
   <a href="https://www.abdullah-aljafari.me/">
     <img src="https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
-  ![](./profile-3d-contrib/profile-night-rainbow.svg)
 </p>
