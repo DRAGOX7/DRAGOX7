@@ -230,23 +230,6 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `> git log --graph`
-
-<div align="center">
-<img width="1444" height="275" alt="image" src="https://github.com/user-attachments/assets/5f499ea9-8639-49c6-8a48-4cb907cc2b64" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DRAGOX7&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         CONNECT                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
