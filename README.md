@@ -236,7 +236,7 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DRAGOX7&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00b4d8&text_color=a0cfdf&icon_color=00b4d8&layout=compact&langs_count=8" />
+<img src=["https://github-readme-stats.vercel.app/api/wakatime?](https://wakatime.com/@9b93b0df-b6af-4ce1-805c-4fef5fca0d36)username=DRAGOX7&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00b4d8&text_color=a0cfdf&icon_color=00b4d8&layout=compact&langs_count=8" />
 
 </div>
 
