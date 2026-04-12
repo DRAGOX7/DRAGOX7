@@ -243,23 +243,6 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 
 > ⚙️ **Setup required:** Install the [WakaTime plugin](https://wakatime.com/vs-code) for VS Code, then add your WakaTime username to the stat URL above. It auto-tracks every hour you spend coding — per language, per project.
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               CONTRIBUTION SNAKE ANIMATION                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `> git log --graph`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DRAGOX7/DRAGOX7/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DRAGOX7/DRAGOX7/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/DRAGOX7/DRAGOX7/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      TROPHIES                                 -->
@@ -281,7 +264,7 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-abdullah--aljafari.me-00b4d8?style=for-the-badge&labelColor=0d0d0d)](https://www.abdullah-aljafari.me/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-DRAGOX7-ffffff?style=for-the-badge&logo=github&labelColor=0d0d0d)](https://github.com/DRAGOX7)
 
 </div>
