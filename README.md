@@ -16,6 +16,10 @@ I am a **Computer Science student** at the **Jordan University of Science & Tech
 
 ---
 
+[![github-trophy](https://github-profile-trophy.vercel.app/?username=DRAGOX7&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 🧪 The Lab (Featured Research & Projects)
 
 #### 🤖 [TaLibAI](https://github.com/DRAGOX7/TaLibAI)
