@@ -263,3 +263,21 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090c10,100:00b4d8&height=120&section=footer" />
+### 🔭 Currently working on
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/DRAGOX7/TaLibAI" style="color: #00b4d8;">GitHub - DRAGOX7/TaLibAI</a></b><br/>
+      <br/>
+      🤖 A RAG-based pipeline utilizing local embeddings and the Gemma 4 model to process complex technical documentation.<br/>
+      <br/>
+      <img src="https://github.com/DRAGOX7.png" width="20" style="border-radius: 50%;" /> DRAGOX7
+    </td>
+    <td width="50%">
+      <a href="https://github.com/DRAGOX7/TaLibAI">
+        <img src="https://opengraph.githubassets.com/1/DRAGOX7/TaLibAI" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
