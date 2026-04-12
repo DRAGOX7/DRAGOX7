@@ -1,79 +1,278 @@
-# ⚡ Hello, I'm Abdullah
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    HEADER — CAPSULE RENDER                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+JUST;Machine+Learning+%26+Computer+Vision;Building+TaLibAI+%7C+RAG+Pipeline;Full-Stack+Web+Developer" alt="Typing SVG" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00b4d8,100:0d0d0d&height=220&section=header&text=DRAGOX7&fontSize=90&fontColor=00b4d8&animation=fadeIn&fontAlignY=38&desc=Abdullah%20AlJafari%20%7C%20AI%20%26%20ML%20Engineer&descSize=18&descAlignY=60&descColor=a0cfdf" />
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TERMINAL TYPING                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=900&color=00B4D8&background=00000000&center=true&vCenter=true&repeat=true&width=750&height=50&lines=root%40DRAGOX7%3A~%24+whoami;Building+TaLibAI+%E2%80%94+RAG+%2B+Gemma+4+%7C+RTX+4050+never+idles;CV+%7C+MLOps+%7C+Arabic+NLP+%7C+Full-Stack;3rd+Year+CS+%40+JUST%2C+Jordan+%F0%9F%87%AF%F0%9F%87%B4" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     BOOT SEQUENCE BLOCK                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+```bash
+╔══════════════════════════════════════════════════════════════════╗
+║             DRAGOX7 SYSTEM — BOOT LOG v2026.04.12               ║
+╚══════════════════════════════════════════════════════════════════╝
+
+[  OK  ] Loaded: NVIDIA GeForce RTX 4050 Laptop GPU .............. ✔
+[  OK  ] Loaded: PyTorch 2.x + CUDA ............................ ✔
+[  OK  ] Loaded: TaLibAI RAG Pipeline (Gemma 4) ................ ✔ [80%]
+[  OK  ] Loaded: ZenML MLOps Orchestrator ...................... ✔
+[ WAIT ] Loading: Unity 2D Action RPG Project .................. ⟳
+[  OK  ] ENV: UNIVERSITY="Jordan University of Science & Technology"
+[  OK  ] ENV: FOCUS="Computer Vision · MLOps · Arabic NLP"
+[  OK  ] ENV: PHILOSOPHY="Run it locally. Own the pipeline."
+
+root@DRAGOX7:~$ _
+```
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      ABOUT — NARRATIVE                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> cat about.md`
+
+I'm a **3rd-year Computer Science student** at **JUST, Jordan** who doesn't wait for cloud credits. My RTX 4050 runs experiments at 3 AM. I read papers and then *replicate* them — parameter counts included. My work sits at the intersection of **research depth** and **production discipline**: ablation studies, MLOps pipelines, RAG architectures, and real inference on real hardware.
+
+I care about building AI that works in the real world — especially for Arabic and technical Arabic contexts that most English-first tools ignore.
+
+> *"Most people use models. I study why they break."*
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CURRENT SYSTEM STATUS                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> htop --research`
+
+| Process | Status | Priority |
+|---------|--------|----------|
+| 🤖 **TaLibAI** — RAG pipeline (Gemma 4 + local embeddings) | `[▓▓▓▓▓▓▓▓░░] 80%` | `HIGH` |
+| 👾 **Unity 2D Action RPG** — AI-integrated game mechanics | `[▓▓▓░░░░░░░] 30%` | `MEDIUM` |
+| 🔬 **Retrieval Latency Optimization** — TaLibAI sub-module | `[▓▓▓▓▓░░░░░] 50%` | `HIGH` |
+| 📚 **Gemma 4 Fine-tuning** — domain adaptation | `[▓▓░░░░░░░░] 20%` | `ACTIVE` |
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    RESEARCH LOG / PROJECTS                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> ls -la /experiments/`
 
 ---
 
-### 🚀 About Me
-I am a **Computer Science student** at the **Jordan University of Science & Technology (JUST)** with a passion for transforming complex research into production-grade AI applications. My work focuses on the intersection of **Computer Vision**, **MLOps**, and **Arabic NLP**.
+### 🤖 [`TaLibAI`](https://github.com/DRAGOX7/TaLibAI) — *The Main Event*
+> **RAG Pipeline for Technical Documentation** | Python · Gemma 4 · PyTorch · Local Embeddings
 
-- 🔭 Currently developing **TaLibAI**: A RAG-based pipeline utilizing local embeddings and the **Gemma 4** model to process complex technical documentation.
-- 🌱 Learning **Unity** for a 2D Action RPG project, exploring the bridge between game mechanics and AI.
-- ⚡ **Local Power:** I perform local inference and training on a dedicated **NVIDIA RTX 4050** setup.
-- 🌐 Checkout my interactive portfolio: [abdullah-aljafari.me](https://www.abdullah-aljafari.me/)
+Not another LLM wrapper. TaLibAI is a ground-up retrieval-augmented generation pipeline designed to reason over dense technical PDFs (C++, ML textbooks). Built with custom chunking strategies tuned for code-heavy documents, local vector embeddings for full data privacy, and optimized query latency on consumer hardware.
 
-### 🔬 Current Focus: Local LLM Optimization
-- **Model:** Gemma 4 (Fine-tuning)
-- **Current Task:** Improving Retrieval Latency in TaLibAI
-- **Status:** `[▓▓▓▓▓▓▓▓░░] 80%`
+```
+  Architecture:  PDF Ingestion → Chunker → Local Embedder → Vector Store → Gemma 4 → Response
+  Hardware:      NVIDIA RTX 4050 (no API bills)
+  Status:        Active Development — Latency optimization in progress
+```
 
 ---
 
-### 🧪 The Lab (Featured Research & Projects)
+### 🫁 [`chest-xray-mlops`](https://github.com/DRAGOX7/chest-xray-mlops) — *Research Meets Production*
+> **Medical CV + Full MLOps Pipeline** | DenseNet121 · PyTorch · FastAPI · Docker · Azure · GitHub Actions
 
-#### 🤖 [TaLibAI](https://github.com/DRAGOX7/TaLibAI)
-*A RAG pipeline for the future of student learning.*
-- **Key Features:** Local vector embeddings, chunking strategies for C++ and ML PDFs, and optimized query response.
-- **Stack:** Python, Gemma 4, PyTorch.
+A DenseNet121 model for detecting chest X-ray abnormalities — shipped as a real product: containerized with Docker, CI/CD via GitHub Actions, auto-deployed to Azure. Not a notebook. A system.
 
-#### 👁️ Deepfake Detection & Ablation Studies
-*Pushing the boundaries of model reliability.*
-- Conducted rigorous studies on **EfficientNet** architectures, analyzing the impact of feature masking on model "flip-rates" and confidence scores.
-
-#### 🧠 AlexNet Implementation
-- Reconstructed the AlexNet architecture to verify its **61.1 million parameters** and validated performance through real-world image inference.
+```
+  Model:     DenseNet121 (transfer learning)
+  Backend:   FastAPI REST API
+  Infra:     Docker → GitHub Actions → Azure (automated)
+  Highlight: Full MLOps loop, not just model training
+```
 
 ---
 
-### 💻 Tech Stack & Tooling
+### 👁️ **Deepfake Detection & Ablation Studies** — *Knowing Why Models Fail*
+> **Adversarial Robustness Research** | EfficientNet · PyTorch · Feature Masking
 
-**Artificial Intelligence**
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+Rigorous ablation studies on EfficientNet architectures — systematically masking features to measure model *flip-rates* and confidence collapse. The goal: understanding not just *if* a model detects deepfakes, but *what* it's actually looking at, and what breaks it.
 
-**Web & Development**
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-**MLOps & Workflow**
-<img src="https://img.shields.io/badge/ZenML-7B3F00?style=for-the-badge&logo=zenml&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-**⚙️ Hardware Environment**
-*Because some architectures deserve more than just a CPU.*
-- **GPU:** NVIDIA GeForce RTX 4050 Laptop GPU
-- **Focus:** Local LLM fine-tuning and Computer Vision inference optimization.
+```
+  Architecture:  EfficientNet variants (ablated)
+  Metric:        Flip-rate under feature occlusion
+  Key Insight:   Confidence ≠ reliability
+```
 
 ---
 
-### 📊 GitHub Insights
+### 🧠 **AlexNet from Scratch** — *Trusting But Verifying*
+> **Architecture Replication Study** | PyTorch · NumPy
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DRAGOX7&theme=tokyonight" alt="GitHub Trophies" />
-  </a>
-</p>
+Reconstructed the original AlexNet architecture from the 2012 paper to verify its **61,100,840 parameters** — not approximate, exact. Validated inference on real images. Because if you're going to use a model, you should be able to rebuild it.
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</p>
+```
+  Parameters Verified:  61,100,840 ✔
+  Framework:            PyTorch (manual architecture, no torchvision shortcuts)
+  Purpose:              Deep architectural understanding
+```
 
 ---
 
-<p align="center">
-  <a href="https://github.com/DRAGOX7">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.abdullah-aljafari.me/">
-    <img src="https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=google-chrome&logoColor=black" />
-  </a>
-</p>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      THE MACHINE ROOM                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> nvidia-smi`
+
+```
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI  |  GeForce RTX 4050 Laptop GPU  |  Driver: Latest              |
+|=============+===============================+================================|
+| Temp: ~75°C | Utilization: █████████░ 90%   | VRAM: 6GB GDDR6              |
+|-------------|-------------------------------|-------------------------------|
+| Process     | PID   | Type   | Memory Usage                               |
+|-------------|-------|--------|---------------------------------------------|
+| python      | TaLibAI inference + training  | Local. Private. No API keys. |
++-----------------------------------------------------------------------------+
+
+Philosophy: If you need the cloud to prototype, you don't understand the model.
+```
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        TECH ARSENAL                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> pip list --important`
+
+**`// AI & Deep Learning`**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**`// MLOps & Infrastructure`**
+
+![ZenML](https://img.shields.io/badge/ZenML-7B3F00?style=for-the-badge&logo=zenml&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**`// Full-Stack Web`**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232B?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**`// Tooling`**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NVIDIA CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       GITHUB STATS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> git log --stats`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DRAGOX7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00b4d8&icon_color=00b4d8&text_color=a0cfdf" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAGOX7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00b4d8&text_color=a0cfdf&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DRAGOX7&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--               CONTRIBUTION SNAKE ANIMATION                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> git log --graph`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DRAGOX7/DRAGOX7/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DRAGOX7/DRAGOX7/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/DRAGOX7/DRAGOX7/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TROPHIES                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DRAGOX7&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      CONNECT                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> curl --contact`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-abdullah--aljafari.me-00b4d8?style=for-the-badge&labelColor=0d0d0d)](https://www.abdullah-aljafari.me/)
+[![GitHub](https://img.shields.io/badge/GitHub-DRAGOX7-ffffff?style=for-the-badge&logo=github&labelColor=0d0d0d)](https://github.com/DRAGOX7)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        FOOTER                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+  "The model is the easy part.
+   The pipeline, the data, the deployment — that's the real work."
+   
+                                         — Abdullah AlJafari, JUST 🇯🇴
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00b4d8,100:0d0d0d&height=120&section=footer" />
