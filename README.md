@@ -71,4 +71,5 @@ I am a **Computer Science student** at the **Jordan University of Science & Tech
   <a href="https://www.abdullah-aljafari.me/">
     <img src="https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
+  ![](./profile-3d-contrib/profile-night-rainbow.svg)
 </p>
