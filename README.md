@@ -3,8 +3,8 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-![Animation](https://github.com/user-attachments/assets/33257270-a1d5-47c5-81a8-8c33383c6108)
-anner.gif" width="100%" />
+[![Animation](https://github.com/user-attachments/assets/33257270-a1d5-47c5-81a8-8c33383c6108)
+anner.gif" width="100%" />](https://github.com/DRAGOX7/DRAGOX7/blob/main/Animation.gif)
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
