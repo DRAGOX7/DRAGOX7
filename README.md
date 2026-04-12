@@ -18,6 +18,12 @@
 
 </div>
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=DRAGOX7&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -95,6 +101,8 @@ Not another LLM wrapper. TaLibAI is a ground-up retrieval-augmented generation p
 
 ### 🫁 [`chest-xray-mlops`](https://github.com/DRAGOX7/chest-xray-mlops) — *Research Meets Production*
 > **Medical CV + Full MLOps Pipeline** | DenseNet121 · PyTorch · FastAPI · Docker · Azure · GitHub Actions
+
+![CI/CD](https://github.com/DRAGOX7/chest-xray-mlops/actions/workflows/deploy.yml/badge.svg)
 
 A DenseNet121 model for detecting chest X-ray abnormalities — shipped as a real product: containerized with Docker, CI/CD via GitHub Actions, auto-deployed to Azure. Not a notebook. A system.
 
@@ -213,7 +221,27 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DRAGOX7&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=00b4d8&line=00b4d8&point=ffffff" />
+
+</div>
+
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       WAKATIME STATS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> wakatime --weekly`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DRAGOX7&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00b4d8&text_color=a0cfdf&icon_color=00b4d8&layout=compact&langs_count=8" />
+
+</div>
+
+> ⚙️ **Setup required:** Install the [WakaTime plugin](https://wakatime.com/vs-code) for VS Code, then add your WakaTime username to the stat URL above. It auto-tracks every hour you spend coding — per language, per project.
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--               CONTRIBUTION SNAKE ANIMATION                    -->
