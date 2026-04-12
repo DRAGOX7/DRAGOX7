@@ -54,13 +54,7 @@ I am a **Computer Science student** at the **Jordan University of Science & Tech
 
 ### 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DRAGOX7&show_icons=true&theme=tokyonight" alt="Abdullah's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DRAGOX7&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
