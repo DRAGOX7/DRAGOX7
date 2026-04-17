@@ -18,12 +18,14 @@
   <img src="https://komarev.com/ghpvc/?username=DRAGOX7&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
+
 ## ⚡ TL;DR
 
-- 🧠 ML Engineer focused on RAG + Computer Vision
-- ⚙️ Build everything locally (RTX 4050, no APIs)
-- 🚀 Built TaLibAI (Arabic RAG system)
-- 🏗️ Shipped full MLOps pipeline (Docker + CI/CD + Azure)
+- 🧠 ML Engineer focused on RAG, Computer Vision, and Arabic NLP  
+- ⚙️ Build and run AI systems locally (RTX 4050, no API reliance)  
+- 🚀 Creator of TaLibAI — bilingual Arabic-English RAG for technical docs  
+- 🏗️ Built and deployed full MLOps pipeline (Docker, CI/CD, Azure)  
+- 🔬 Strong focus on model behavior, ablation studies, and real-world reliability  
 
 
 
