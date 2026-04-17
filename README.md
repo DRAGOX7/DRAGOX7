@@ -241,7 +241,7 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-DRAGOX7-ffffff?style=for-the-badge&logo=github&labelColor=0d0d0d)](https://github.com/DRAGOX7)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/abdullah-aljafari-a32100352/)
 </div>
 
 <br/>
