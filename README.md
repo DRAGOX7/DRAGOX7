@@ -47,7 +47,7 @@ root@DRAGOX7:~$ _
 <!--                      ABOUT — NARRATIVE                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `> cat about.md`
+## 👤 About Me
 
 I'm a **3rd-year Computer Science student** at **JUST, Jordan** who doesn't wait for cloud credits. My RTX 4050 runs experiments at 3 AM. I read papers and then *replicate* them — parameter counts included. My work sits at the intersection of **research depth** and **production discipline**: ablation studies, MLOps pipelines, RAG architectures, and real inference on real hardware.
 
@@ -61,7 +61,7 @@ I care about building AI that works in the real world — especially for Arabic 
 <!--                    CURRENT SYSTEM STATUS                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `> htop --research`
+## 🚀 Current Research & Focus
 
 | Process | Status | Priority |
 |---------|--------|----------|
@@ -76,7 +76,7 @@ I care about building AI that works in the real world — especially for Arabic 
 <!--                    RESEARCH LOG / PROJECTS                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `> ls -la /experiments/`
+## 📂 Featured Experiments & Projects
 
 ---
 
@@ -141,7 +141,7 @@ Reconstructed the original AlexNet architecture from the 2012 paper to verify it
 <!--                      THE MACHINE ROOM                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `> nvidia-smi`
+## 💻 Local Infrastructure (The Machine Room)
 
 ```
 +-----------------------------------------------------------------------------+
@@ -163,7 +163,7 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 <!--                        TECH ARSENAL                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `> pip list --important`
+## 🛠️ Technical Arsenal & Skillset
 
 **`// AI & Deep Learning`**
 
@@ -200,7 +200,7 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 <!--                       GITHUB STATS                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `> git log --stats`
+## 📈 GitHub Statistics
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DRAGOX7&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8" />
 </div>
@@ -224,7 +224,7 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 <!--                       WAKATIME STATS                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `> wakatime --weekly`
+## ⏳ Coding Activity (WakaTime)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dragox&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00b4d8&text_color=a0cfdf&icon_color=00b4d8&layout=compact&langs_count=8" />
@@ -236,7 +236,7 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 <!--                         CONNECT                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `> curl --contact`
+## 🤝 Connect With Me
 
 <div align="center">
 
