@@ -18,6 +18,16 @@
   <img src="https://komarev.com/ghpvc/?username=DRAGOX7&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
+## ⚡ TL;DR
+
+- 🧠 ML Engineer focused on RAG + Computer Vision
+- ⚙️ Build everything locally (RTX 4050, no APIs)
+- 🚀 Built TaLibAI (Arabic RAG system)
+- 🏗️ Shipped full MLOps pipeline (Docker + CI/CD + Azure)
+
+
+
+
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
