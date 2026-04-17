@@ -227,7 +227,7 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 ## ⏳ Coding Activity (WakaTime)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dragox&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00b4d8&text_color=a0cfdf&icon_color=00b4d8&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dragox&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00b4d8&text_color=a0cfdf&icon_color=00b4d8&layout=compact&langs_count=8&v=1" />
 </div>
 
 <br/>
@@ -240,7 +240,6 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-abdullah--aljafari.me-00b4d8?style=for-the-badge&labelColor=0d0d0d)](https://www.abdullah-aljafari.me/)
 [![GitHub](https://img.shields.io/badge/GitHub-DRAGOX7-ffffff?style=for-the-badge&logo=github&labelColor=0d0d0d)](https://github.com/DRAGOX7)
 
 </div>
