@@ -236,11 +236,6 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       WAKATIME STATS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## ⏳ Coding Activity (WakaTime)
 
 
 <br/>
