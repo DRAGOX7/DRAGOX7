@@ -242,14 +242,6 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 
 ## ⏳ Coding Activity (WakaTime)
 
-# --------------------------------------------------------
-          # PLUGIN 4: WakaTime Integration
-          # --------------------------------------------------------
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, projects, languages, editors, os
-          plugin_wakatime_limit: 5
 
 <br/>
 
