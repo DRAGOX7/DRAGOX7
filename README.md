@@ -242,9 +242,14 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 
 ## ⏳ Coding Activity (WakaTime)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dragox&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00b4d8&text_color=a0cfdf&icon_color=00b4d8&layout=compact&langs_count=8&v=1" />
-</div>
+# --------------------------------------------------------
+          # PLUGIN 4: WakaTime Integration
+          # --------------------------------------------------------
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_sections: time, projects, languages, editors, os
+          plugin_wakatime_limit: 5
 
 <br/>
 
