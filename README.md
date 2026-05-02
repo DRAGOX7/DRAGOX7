@@ -224,10 +224,14 @@ Philosophy: If you need the cloud to prototype, you don't understand the model.
 <br/>
 
 
-## `> git log --3d-render`
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    SYSTEM TELEMETRY & LANGUAGES                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `> cat /var/log/system_metrics.svg`
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+  <img src="github-metrics.svg" width="100%" alt="DRAGOX7 System Telemetry" />
 </div>
 
 <br/>
