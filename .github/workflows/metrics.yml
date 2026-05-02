@@ -1,0 +1,43 @@
+name: DRAGOX7 System Metrics
+on:
+  # Runs automatically at midnight
+  schedule: [{cron: "0 0 * * *"}]
+  # Allows you to trigger the build manually from the Actions tab
+  workflow_dispatch:
+  # Runs whenever you update your README
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # You need to generate a Personal Access Token (PAT) and save it as a repository secret
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Core System Settings
+          user: DRAGOX7
+          template: classic
+          config_theme: tokyonight
+          config_timezone: Asia/Amman
+          
+          # Disable the default base card to keep the focus strictly on the plugins you want
+          base: ""
+
+          # --------------------------------------------------------
+          # PLUGIN 2: Isometric Commit Calendar (Replaces 3D Render)
+          # --------------------------------------------------------
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # --------------------------------------------------------
+          # PLUGIN 3: Detailed Languages Activity
+          # --------------------------------------------------------
+          plugin_languages: yes
+          # Hides boilerplate to highlight your actual ML/Backend stack
+          plugin_languages_ignored: html, css, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
