@@ -1,12 +1,15 @@
 <div align="center">
   <img src="banner.png" width="100%" alt="Abdullah Al-Jafari — AI Systems Builder" />
 
-  [Portfolio](https://www.abdullah-aljafari.me/) · [LinkedIn](https://linkedin.com/in/abdullah-aljafari-a32100352/) · [Email](mailto:aljafariabdullah2005@gmail.com)
+  <a href="https://www.abdullah-aljafari.me/"><img src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/DRAGOX7"><img src="https://img.shields.io/badge/GitHub-DRAGOX7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/abdullah-aljafari-a32100352/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aljafariabdullah2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ## About
 
-Third-year AI student at Jordan University of Science & Technology (JUST). I build practical AI systems from model development through deployment, with a focus on computer vision, MLOps and Arabic NLP. I prefer local-first AI: no API dependency, full control of the pipeline.
+Fourth-year AI student at Jordan University of Science & Technology (JUST). I build practical AI systems from model development through deployment, with a focus on computer vision, MLOps and Arabic NLP. I prefer local-first AI: no API dependency, full control of the pipeline.
 
 ## Featured Projects
 
@@ -30,10 +33,34 @@ Rebuilt the 2012 architecture in PyTorch and verified the exact 61,100,840 param
 
 ## Skills
 
-**AI / ML:** Python, PyTorch, TensorFlow, OpenCV, Hugging Face
-**MLOps:** ZenML, Docker, Azure, FastAPI, GitHub Actions
-**Web:** Next.js, React, Tailwind CSS
-**Tools:** Git, Linux, CUDA
+**`// AI & Deep Learning`**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**`// MLOps & Infrastructure`**
+
+![ZenML](https://img.shields.io/badge/ZenML-7B3F00?style=for-the-badge&logo=zenml&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**`// Full-Stack Web`**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232B?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**`// Tooling`**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NVIDIA CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ## GitHub Statistics
 
@@ -47,4 +74,10 @@ Rebuilt the 2012 architecture in PyTorch and verified the exact 61,100,840 param
 
 ## Contact
 
-Open to internships and collaborations. Reach me at [aljafariabdullah2005@gmail.com](mailto:aljafariabdullah2005@gmail.com) or on [LinkedIn](https://linkedin.com/in/abdullah-aljafari-a32100352/).
+Open to internships and collaborations.
+
+<a href="mailto:aljafariabdullah2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/abdullah-aljafari-a32100352/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/DRAGOX7"><img src="https://img.shields.io/badge/GitHub-DRAGOX7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090c10,100:00b4d8&height=120&section=footer" width="100%" alt="" />
