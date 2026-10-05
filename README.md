@@ -1,6 +1,8 @@
 <div align="center">
   <img src="banner.png" width="100%" alt="Abdullah Al-Jafari — AI Systems Builder" />
 
+  <a href="https://www.abdullah-aljafari.me/"><img src="aj-logo.png" height="48" alt="AJ logo" /></a>
+  <br/>
   <a href="https://www.abdullah-aljafari.me/"><img src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/DRAGOX7"><img src="https://img.shields.io/badge/GitHub-DRAGOX7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/abdullah-aljafari-a32100352/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
