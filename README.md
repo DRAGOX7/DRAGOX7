@@ -1,7 +1,9 @@
 <div align="center">
   <img src="banner.png" width="100%" alt="Abdullah Al-Jafari — AI Systems Builder" />
 
-  <a href="https://www.abdullah-aljafari.me/"><img src="aj-logo.png" height="48" alt="AJ logo" /></a>
+  <a href="https://www.abdullah-aljafari.me/"><img src="aj-logo.png" height="110" alt="AJ logo" /></a>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00B4D8&background=00000000&center=true&vCenter=true&repeat=true&width=700&height=45&lines=AI%20Engineer;Computer%20Vision%20%C2%B7%20MLOps%20%C2%B7%20Arabic%20NLP;Building%20TaLibAI%20%E2%80%94%20local%20bilingual%20RAG;4th%20Year%20AI%20%40%20JUST%2C%20Jordan" alt="AI Engineer · Computer Vision · MLOps · Arabic NLP" />
   <br/>
   <a href="https://www.abdullah-aljafari.me/"><img src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/DRAGOX7"><img src="https://img.shields.io/badge/GitHub-DRAGOX7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -15,23 +17,37 @@ Fourth-year AI student at Jordan University of Science & Technology (JUST). I bu
 
 ## Featured Projects
 
-**[TaLibAI](https://github.com/DRAGOX7/TaLibAI)** — Bilingual Arabic-English RAG for technical documentation
-Custom chunking for code-heavy PDFs, local embeddings for privacy, and optimized retrieval latency on consumer hardware.
-`Python · Gemma · PyTorch · Local Embeddings`
-
-**[chest-xray-mlops](https://github.com/DRAGOX7/chest-xray-mlops)** — Chest X-ray abnormality detection, deployed end to end
-DenseNet121 served via FastAPI, containerized with Docker and auto-deployed to Azure through GitHub Actions.
-`PyTorch · FastAPI · Docker · Azure · CI/CD`
-
-![CI/CD](https://github.com/DRAGOX7/chest-xray-mlops/actions/workflows/deploy.yml/badge.svg)
-
-**Deepfake Detection Ablation Study** — What EfficientNet actually relies on
-Feature-masking experiments measuring prediction flip-rates and confidence collapse.
-`PyTorch · EfficientNet`
-
-**AlexNet from Scratch** — Architecture replication
-Rebuilt the 2012 architecture in PyTorch and verified the exact 61,100,840 parameter count.
-`PyTorch · NumPy`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DRAGOX7/TaLibAI">TaLibAI</a></h3>
+      <b>Bilingual Arabic-English RAG for technical docs</b><br/>
+      Custom chunking for code-heavy PDFs, local embeddings for privacy, and optimized retrieval latency on consumer hardware.<br/><br/>
+      <code>Python</code> <code>Gemma</code> <code>PyTorch</code> <code>Local Embeddings</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DRAGOX7/chest-xray-mlops">chest-xray-mlops</a></h3>
+      <b>Chest X-ray detection, deployed end to end</b><br/>
+      DenseNet121 served via FastAPI, containerized with Docker and auto-deployed to Azure through GitHub Actions.<br/><br/>
+      <code>PyTorch</code> <code>FastAPI</code> <code>Docker</code> <code>Azure</code> <code>CI/CD</code><br/>
+      <img src="https://github.com/DRAGOX7/chest-xray-mlops/actions/workflows/main.yml/badge.svg" alt="CI/CD" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Deepfake Detection Ablation Study</h3>
+      <b>What EfficientNet actually relies on</b><br/>
+      Feature-masking experiments measuring prediction flip-rates and confidence collapse.<br/><br/>
+      <code>PyTorch</code> <code>EfficientNet</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AlexNet from Scratch</h3>
+      <b>Architecture replication</b><br/>
+      Rebuilt the 2012 architecture in PyTorch and verified the exact 61,100,840 parameter count.<br/><br/>
+      <code>PyTorch</code> <code>NumPy</code>
+    </td>
+  </tr>
+</table>
 
 ## Skills
 
