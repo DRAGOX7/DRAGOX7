@@ -3,12 +3,14 @@
 
   <a href="https://www.abdullah-aljafari.me/"><img src="aj-logo.png" height="110" alt="AJ logo" /></a>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00B4D8&background=00000000&center=true&vCenter=true&repeat=true&width=700&height=45&lines=AI%20Engineer;Computer%20Vision%20%C2%B7%20MLOps%20%C2%B7%20Arabic%20NLP;Building%20TaLibAI%20%E2%80%94%20local%20bilingual%20RAG;4th%20Year%20AI%20%40%20JUST%2C%20Jordan" alt="AI Engineer · Computer Vision · MLOps · Arabic NLP" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=149D8D&background=00000000&center=true&vCenter=true&repeat=true&width=700&height=45&lines=AI%20Engineer;Computer%20Vision%20%C2%B7%20MLOps%20%C2%B7%20Arabic%20NLP;Building%20AAOS%20%C2%B7%20Anti-UAV;4th%20Year%20AI%20%40%20JUST%2C%20Jordan" alt="AI Engineer · Computer Vision · MLOps · Arabic NLP" />
   <br/>
-  <a href="https://www.abdullah-aljafari.me/"><img src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.abdullah-aljafari.me/"><img src="https://img.shields.io/badge/Portfolio-149D8D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/DRAGOX7"><img src="https://img.shields.io/badge/GitHub-DRAGOX7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/abdullah-aljafari-a32100352/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:aljafariabdullah2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=DRAGOX7&color=149D8D&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ## About
@@ -20,31 +22,16 @@ Fourth-year AI student at Jordan University of Science & Technology (JUST). I bu
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/DRAGOX7/TaLibAI">TaLibAI</a></h3>
-      <b>Bilingual Arabic-English RAG for technical docs</b><br/>
-      Custom chunking for code-heavy PDFs, local embeddings for privacy, and optimized retrieval latency on consumer hardware.<br/><br/>
-      <code>Python</code> <code>Gemma</code> <code>PyTorch</code> <code>Local Embeddings</code>
+      <h3><a href="https://github.com/DRAGOX7/aaos">AAOS — Academic AI OS</a></h3>
+      <b>Local-first academic assistant for Moodle</b><br/>
+      English and Arabic answers with cited course sources, hybrid retrieval and claim verification. Read-only Moodle sync, study tasks, approval-gated Calendar actions and Telegram alerts.<br/><br/>
+      <code>Python</code> <code>FastAPI</code> <code>RAG</code> <code>Next.js</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/DRAGOX7/chest-xray-mlops">chest-xray-mlops</a></h3>
-      <b>Chest X-ray detection, deployed end to end</b><br/>
-      DenseNet121 served via FastAPI, containerized with Docker and auto-deployed to Azure through GitHub Actions.<br/><br/>
-      <code>PyTorch</code> <code>FastAPI</code> <code>Docker</code> <code>Azure</code> <code>CI/CD</code><br/>
-      <img src="https://github.com/DRAGOX7/chest-xray-mlops/actions/workflows/main.yml/badge.svg" alt="CI/CD" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Deepfake Detection Ablation Study</h3>
-      <b>What EfficientNet actually relies on</b><br/>
-      Feature-masking experiments measuring prediction flip-rates and confidence collapse.<br/><br/>
-      <code>PyTorch</code> <code>EfficientNet</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AlexNet from Scratch</h3>
-      <b>Architecture replication</b><br/>
-      Rebuilt the 2012 architecture in PyTorch and verified the exact 61,100,840 parameter count.<br/><br/>
-      <code>PyTorch</code> <code>NumPy</code>
+      <h3><a href="https://github.com/DRAGOX7/Anti_uav_detection">Anti-UAV Detection &amp; Tracking</a></h3>
+      <b>Computer vision for drone detection and tracking</b><br/>
+      YOLOv11-S and RT-DETR-R50 with ByteTrack for RGB images and video. MLflow experiment tracking, a Streamlit interface and a Docker-based pipeline.<br/><br/>
+      <code>PyTorch</code> <code>YOLOv11</code> <code>ByteTrack</code> <code>MLflow</code> <code>Docker</code>
     </td>
   </tr>
 </table>
@@ -83,15 +70,15 @@ Fourth-year AI student at Jordan University of Science & Technology (JUST). I bu
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DRAGOX7&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DRAGOX7&theme=tokyonight&hide_border=true&background=0d0d0d&ring=149D8D&fire=ff6b6b&currStreakLabel=149D8D" alt="GitHub streak stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DRAGOX7&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=00b4d8&line=00b4d8&point=ffffff" width="100%" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DRAGOX7&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=149D8D&line=149D8D&point=ffffff" width="100%" alt="GitHub activity graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dragox&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00b4d8&text_color=a0cfdf&icon_color=00b4d8&layout=compact&langs_count=8" alt="WakaTime coding activity" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dragox&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=149D8D&text_color=a0cfdf&icon_color=149D8D&layout=compact&langs_count=8" alt="WakaTime coding activity" />
 </div>
 
 ## Contact
@@ -102,4 +89,4 @@ Open to internships and collaborations.
 <a href="https://linkedin.com/in/abdullah-aljafari-a32100352/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/DRAGOX7"><img src="https://img.shields.io/badge/GitHub-DRAGOX7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090c10,100:00b4d8&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090c10,100:149D8D&height=120&section=footer" width="100%" alt="" />
