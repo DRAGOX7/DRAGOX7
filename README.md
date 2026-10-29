@@ -74,11 +74,11 @@ Fourth-year AI student at Jordan University of Science & Technology (JUST). I bu
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DRAGOX7&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=149D8D&line=149D8D&point=ffffff" width="100%" alt="GitHub activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DRAGOX7&theme=github_dark&bg_color=0d0d0d&title_color=149D8D&text_color=a0cfdf&chart_color=149D8D&border_color=0d0d0d" width="100%" alt="GitHub activity graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dragox&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=149D8D&text_color=a0cfdf&icon_color=149D8D&layout=compact&langs_count=8" alt="WakaTime coding activity" />
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=dragox&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=149D8D&text_color=a0cfdf&icon_color=149D8D&layout=compact&langs_count=8" alt="WakaTime coding activity" />
 </div>
 
 ## Contact
