@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png?v=29faf688" width="100%" alt="Abdullah Al-Jafari — AI Systems Builder" />
+  <img src="https://raw.githubusercontent.com/DRAGOX7/DRAGOX7/c4cab7691edfc2fd72cf02a3f116d0f940d004d4/banner.png" width="100%" alt="Abdullah Al-Jafari — AI Systems Builder" />
 
   <a href="https://www.abdullah-aljafari.me/"><img src="aj-logo.png" height="110" alt="AJ logo" /></a>
   <br/>
