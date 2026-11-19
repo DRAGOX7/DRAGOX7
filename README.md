@@ -3,7 +3,9 @@
 
   <a href="https://www.abdullah-aljafari.me/"><img src="aj-logo.png" height="110" alt="AJ logo" /></a>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=149D8D&background=00000000&center=true&vCenter=true&repeat=true&width=700&height=45&lines=AI%20Engineer;Computer%20Vision%20%C2%B7%20MLOps%20%C2%B7%20Arabic%20NLP;Building%20AAOS%20%C2%B7%20Anti-UAV;4th%20Year%20AI%20%40%20JUST%2C%20Jordan" alt="AI Engineer · Computer Vision · MLOps · Arabic NLP" />
+  <a href="https://www.abdullah-aljafari.me/"><picture><source media="(prefers-color-scheme: dark)" srcset="dragox/name-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="dragox/name-light.svg" /><img src="dragox/name-dark.svg" alt="Abdullah AlJafari" width="720" /></picture></a>
+  <br/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="dragox/tagline-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="dragox/tagline-light.svg" /><img src="dragox/tagline-dark.svg" alt="AI Engineer · Computer Vision · MLOps · Arabic NLP" width="840" /></picture>
   <br/>
   <a href="https://www.abdullah-aljafari.me/"><img src="https://img.shields.io/badge/Portfolio-149D8D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/DRAGOX7"><img src="https://img.shields.io/badge/GitHub-DRAGOX7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -13,11 +15,11 @@
   <img src="https://komarev.com/ghpvc/?username=DRAGOX7&color=149D8D&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
-## About
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="dragox/h-about-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="dragox/h-about-light.svg" /><img src="dragox/h-about-dark.svg" alt="About" /></picture></h2>
 
 Fourth-year AI student at Jordan University of Science & Technology (JUST). I build practical AI systems from model development through deployment, with a focus on computer vision, MLOps and Arabic NLP. I prefer local-first AI: no API dependency, full control of the pipeline.
 
-## Featured Projects
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="dragox/h-featured-projects-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="dragox/h-featured-projects-light.svg" /><img src="dragox/h-featured-projects-dark.svg" alt="Featured Projects" /></picture></h2>
 
 <table>
   <tr>
@@ -36,7 +38,7 @@ Fourth-year AI student at Jordan University of Science & Technology (JUST). I bu
   </tr>
 </table>
 
-## Skills
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="dragox/h-skills-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="dragox/h-skills-light.svg" /><img src="dragox/h-skills-dark.svg" alt="Skills" /></picture></h2>
 
 **`// AI & Deep Learning`**
 
@@ -67,7 +69,7 @@ Fourth-year AI student at Jordan University of Science & Technology (JUST). I bu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![NVIDIA CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-## GitHub Statistics
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="dragox/h-github-stats-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="dragox/h-github-stats-light.svg" /><img src="dragox/h-github-stats-dark.svg" alt="GitHub Statistics" /></picture></h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DRAGOX7&theme=tokyonight&hide_border=true&background=0d0d0d&ring=149D8D&fire=ff6b6b&currStreakLabel=149D8D" alt="GitHub streak stats" />
@@ -81,12 +83,18 @@ Fourth-year AI student at Jordan University of Science & Technology (JUST). I bu
   <img src="https://github-stats-extended.vercel.app/api/wakatime?username=dragox&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=149D8D&text_color=a0cfdf&icon_color=149D8D&layout=compact&langs_count=8" alt="WakaTime coding activity" />
 </div>
 
-## Contact
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="dragox/h-contact-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="dragox/h-contact-light.svg" /><img src="dragox/h-contact-dark.svg" alt="Contact" /></picture></h2>
 
 Open to internships and collaborations.
 
 <a href="mailto:aljafariabdullah2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/abdullah-aljafari/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/DRAGOX7"><img src="https://img.shields.io/badge/GitHub-DRAGOX7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<div align="center">
+  <a href="https://dragox-circuit.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="dragox/signoff-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="dragox/signoff-light.svg" /><img src="dragox/signoff-dark.svg" alt="Set in Dragox Circuit" /></picture></a>
+  <br/>
+  <sub>The lettering on this page is <a href="https://dragox-circuit.vercel.app">Dragox Circuit</a>, a free typeface I designed and rebuilt in Python.</sub>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090c10,100:149D8D&height=120&section=footer" width="100%" alt="" />
