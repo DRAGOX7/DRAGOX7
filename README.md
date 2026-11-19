@@ -5,7 +5,7 @@
   <br/>
   <a href="https://www.abdullah-aljafari.me/"><picture><source media="(prefers-color-scheme: dark)" srcset="dragox/name-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="dragox/name-light.svg" /><img src="dragox/name-dark.svg" alt="Abdullah AlJafari" width="720" /></picture></a>
   <br/>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="dragox/tagline-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="dragox/tagline-light.svg" /><img src="dragox/tagline-dark.svg" alt="AI Engineer · Computer Vision · MLOps · Arabic NLP" width="840" /></picture>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=149D8D&background=00000000&center=true&vCenter=true&repeat=true&width=700&height=45&lines=AI%20Engineer;Computer%20Vision%20%C2%B7%20MLOps%20%C2%B7%20Arabic%20NLP;Building%20AAOS%20%C2%B7%20Anti-UAV;4th%20Year%20AI%20%40%20JUST%2C%20Jordan" alt="AI Engineer · Computer Vision · MLOps · Arabic NLP" />
   <br/>
   <a href="https://www.abdullah-aljafari.me/"><img src="https://img.shields.io/badge/Portfolio-149D8D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/DRAGOX7"><img src="https://img.shields.io/badge/GitHub-DRAGOX7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -24,12 +24,14 @@ Fourth-year AI student at Jordan University of Science & Technology (JUST). I bu
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/DRAGOX7/aaos"><img src="assets/aaos-card.jpg" width="100%" alt="AAOS overview: courses, deadlines and an Ask box" /></a>
       <h3><a href="https://github.com/DRAGOX7/aaos">AAOS — Academic AI OS</a></h3>
       <b>Local-first academic assistant for Moodle</b><br/>
       English and Arabic answers with cited course sources, hybrid retrieval and claim verification. Read-only Moodle sync, study tasks, approval-gated Calendar actions and Telegram alerts.<br/><br/>
       <code>Python</code> <code>FastAPI</code> <code>RAG</code> <code>Next.js</code>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/DRAGOX7/Anti_uav_detection"><img src="assets/anti-uav-card.jpg" width="100%" alt="Anti-UAV Detection: a drone tracked in a bounding box" /></a>
       <h3><a href="https://github.com/DRAGOX7/Anti_uav_detection">Anti-UAV Detection &amp; Tracking</a></h3>
       <b>Computer vision for drone detection and tracking</b><br/>
       YOLOv11-S and RT-DETR-R50 with ByteTrack for RGB images and video. MLflow experiment tracking, a Streamlit interface and a Docker-based pipeline.<br/><br/>
