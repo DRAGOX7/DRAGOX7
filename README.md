@@ -96,7 +96,7 @@ Open to internships and collaborations.
 <div align="center">
   <a href="https://dragox-circuit.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="dragox/signoff-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="dragox/signoff-light.svg" /><img src="dragox/signoff-dark.svg" alt="Set in Dragox Circuit" /></picture></a>
   <br/>
-  <sub>The lettering on this page is <a href="https://dragox-circuit.vercel.app">Dragox Circuit</a>, a free typeface I designed and rebuilt in Python.</sub>
+  <sub>The lettering on this page is <a href="https://dragox-circuit.vercel.app">Dragox Circuit</a>, a free typeface I designed.</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090c10,100:149D8D&height=120&section=footer" width="100%" alt="" />
