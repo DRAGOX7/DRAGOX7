@@ -13,7 +13,9 @@
   <a href="mailto:aljafariabdullah2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=DRAGOX7&color=149D8D&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+[![contributor.top](https://img.shields.io/endpoint?url=https%3A%2F%2Fcontributor.top%2Fu%2Fdragox7.json&style=plastic)](https://contributor.top/find/?login=dragox7)
 </div>
+
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="dragox/h-about-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="dragox/h-about-light.svg" /><img src="dragox/h-about-dark.svg" alt="About" /></picture></h2>
 
