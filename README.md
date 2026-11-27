@@ -17,7 +17,6 @@
   <a href="https://contributor.top/find/?login=dragox7"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcontributor.top%2Fu%2Fdragox7.json&style=for-the-badge" alt="contributor.top public contributions rank" /></a>
 </div>
 
-
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="dragox/h-about-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="dragox/h-about-light.svg" /><img src="dragox/h-about-dark.svg" alt="About" /></picture></h2>
 
 Fourth-year AI student at Jordan University of Science & Technology (JUST). I build practical AI systems from model development through deployment, with a focus on computer vision, MLOps and Arabic NLP. I prefer local-first AI: no API dependency, full control of the pipeline.
