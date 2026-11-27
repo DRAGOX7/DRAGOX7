@@ -13,9 +13,8 @@
   <a href="mailto:aljafariabdullah2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=DRAGOX7&color=149D8D&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-[![contributor.top](https://img.shields.io/endpoint?url=https%3A%2F%2Fcontributor.top%2Fu%2Fdragox7.json&style=plastic)](https://contributor.top/find/?login=dragox7)
   <br/>
-  <sub>Currently building <a href="https://github.com/DRAGOX7/aaos">AAOS</a> · <a href="https://github.com/DRAGOX7/Anti_uav_detection">Anti-UAV Detection</a></sub>
+  <a href="https://contributor.top/find/?login=dragox7"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcontributor.top%2Fu%2Fdragox7.json&style=plastic" alt="contributor.top" /></a>
 </div>
 
 
