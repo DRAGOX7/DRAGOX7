@@ -14,6 +14,8 @@
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=DRAGOX7&color=149D8D&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 [![contributor.top](https://img.shields.io/endpoint?url=https%3A%2F%2Fcontributor.top%2Fu%2Fdragox7.json&style=plastic)](https://contributor.top/find/?login=dragox7)
+  <br/>
+  <sub>Currently building <a href="https://github.com/DRAGOX7/aaos">AAOS</a> · <a href="https://github.com/DRAGOX7/Anti_uav_detection">Anti-UAV Detection</a></sub>
 </div>
 
 
