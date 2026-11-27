@@ -14,7 +14,7 @@
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=DRAGOX7&color=149D8D&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <br/>
-  <a href="https://contributor.top/find/?login=dragox7"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcontributor.top%2Fu%2Fdragox7.json&style=plastic" alt="contributor.top" /></a>
+  <a href="https://contributor.top/find/?login=dragox7"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcontributor.top%2Fu%2Fdragox7.json&style=for-the-badge" alt="contributor.top" /></a>
 </div>
 
 
